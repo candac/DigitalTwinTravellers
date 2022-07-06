@@ -6,6 +6,6 @@ Paper: https://www.sciencedirect.com/science/article/pii/S0968090X21001376
 Repo coming soon ...
 
 
-Questions: temo.anda@dsanalytics.com
+Contact: temo.anda@dsanalytics.com
 
 
